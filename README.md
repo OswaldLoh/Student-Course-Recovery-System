@@ -24,6 +24,6 @@ The platform serves as a centralized platform for administrative staff to monito
 ## Installation
 Maven Java:
 ```bash
-git clone https://github.com/YourUsername/YourRepoName.git
+git clone https://github.com/OswaldLoh/Student-Course-Recovery-System.git
 ```
     
